@@ -10,6 +10,7 @@ I want to gut one of my Chromebook Pixel 2015s (codename Samus) and make somethi
 
 ## Links/resources
 - Display used in linked video: VSDISPLAY 12.6" NV126B5M-N41 12.6inch1920X515 LCD Screen Work with 2 HD-MI Mini LCD Controller VS-RTD2556HM-V1, Work with Raspberry Pi: https://www.amazon.com.au/VSDISPLAY-NV126B5M-N41-12-6inch1920X515-Controller-VS-RTD2556HM-V1/dp/B08FJ33247
+    - https://www.panelook.com/NV126B5M-N41_BOE_12.6_LCM_parameter_44187.html
 - Keyboard used in linked video: https://iqunix.store/products/iqunix-og80-wormhole-wireless-mechanical-keyboard?variant=39828939898940
     - Apparently hard to disassemble and not recommended.
 - Similar projects:
